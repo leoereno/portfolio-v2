@@ -1,0 +1,28 @@
+:root{
+    --cinza: #B4BEC9;
+    --azul-turquesa: #159A9C;
+    --azul-escuro: #002333;
+    --cinza-claro: #DEEFE7;
+    --preto: #0e0e0e;
+  
+  }
+.card{
+    margin: 0.5rem;
+    flex-grow: 20;
+    padding: 1em;
+    max-width: 400px;
+    /* background-color: rgb(209, 209, 209); */
+    background-color: var(--grey-bg);
+    color: rgb(96, 96, 96);
+    border-radius: 5px;
+    text-align: left;
+    filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 0.1));
+}
+
+h4{
+    text-align: center;
+}
+
+.description{
+    font-size: 16px;
+}

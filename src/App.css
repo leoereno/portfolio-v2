@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+:root{
+  --cinza: #B4BEC9;
+  --azul-turquesa: #159A9C;
+  --azul-escuro: #002333;
+  --cinza-claro: #DEEFE7;
+  --preto: #0e0e0e;
+
+
+  --branco-2: #F2F0F0;
+  --marrom-escuro: #591607;
+  --marrom-claro: #A6290D;
+  --laranja: #D9501E;
+  --bege: #D99B66;
+
+  --verde-main: #159323;
+  /* --verde-main: #0C6717; */
+  --preto-main: #1E1E24;
+  --branco-main: #EDEBD7;
+
+  --grey-bg: rgb(219, 219, 219);
+}
+
+a{
+  text-decoration: none;
+}
+
+.about-me{
+  
+}
+/* 
+h1{
+  font-family: "Roboto", serif;
+  font-size: 44px;
+  margin: 0.5em 0 0em 0;
+  color: var(--verde-main);
+}
+
+h2{
+  font-size: 28px;
+  font-weight: 100;
+  color: var(--verde-main);
+}
+h3{
+  font-size: 28px; 
+} */
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: var(--branco-main);
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+
+/* 
+.footer-text{
+  font-size: 14px;
+} */

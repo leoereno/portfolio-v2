@@ -1,0 +1,30 @@
+:root{
+    --cinza: #B4BEC9;
+    --azul-turquesa: #159A9C;
+    --azul-escuro: #002333;
+    --cinza-claro: #DEEFE7;
+    --preto: #0e0e0e;
+
+    --branco-2: #F2F0F0;
+    --marrom-escuro: #591607;
+    --marrom-claro: #A6290D;
+    --laranja: #D9501E;
+    --bege: #D99B66;
+  
+  }
+
+.section {
+    margin: 10px;
+}
+.content {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+section h3{
+    text-align: center;
+    margin-top: 2.5em;
+    margin-bottom: 0.5em;
+}

@@ -1,0 +1,10 @@
+.social-icons img{
+    width: 3em;
+    filter: drop-shadow(1px 1px 1px rgb(0 0 0 / 0.2));
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    margin-bottom: 0.5em;
+}
