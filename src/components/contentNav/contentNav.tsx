@@ -1,4 +1,4 @@
-import { Link, NavLink } from "react-router"
+import { NavLink } from "react-router"
 import './contentNav.css';
 
 export default function ContentNav () {

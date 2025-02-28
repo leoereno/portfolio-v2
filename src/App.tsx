@@ -1,19 +1,11 @@
 import "./App.css";
-import { BrowserRouter, Route, Router, Routes } from "react-router";
-import AboutMe from "./components/aboutMe/aboutMe";
+import { BrowserRouter, Route, Routes } from "react-router";
 import Tools from "./components/tools/tools";
 import SoftSkills from "./components/softSkills/softSkills";
-import Header from "./components/header/header";
 import Layout from "./components/layout/layout";
 import AboutMeText from "./components/aboutMeText/aboutMeText";
 
 const App: React.FC = () => {
-  //header
-  //about me
-  //tools
-  //soft skills
-  //projects
-
   return (
     <>
       <BrowserRouter>
